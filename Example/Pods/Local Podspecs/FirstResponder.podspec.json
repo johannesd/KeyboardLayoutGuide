@@ -1,0 +1,22 @@
+{
+  "name": "FirstResponder",
+  "version": "0.1.0",
+  "summary": "A short description of FirstResponder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/johannesd/FirstResponder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "johannesd": "mail@johannesdoerr.de"
+  },
+  "source": {
+    "git": "https://github.com/johannesd/FirstResponder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FirstResponder/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module FirstResponder {
+  umbrella header "FirstResponder-umbrella.h"
+
+  export *
+  module * { export * }
+}

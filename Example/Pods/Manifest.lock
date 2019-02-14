@@ -1,0 +1,22 @@
+PODS:
+  - FirstResponder (0.1.0)
+  - KeyboardLayoutGuide (0.1.0):
+    - FirstResponder
+
+DEPENDENCIES:
+  - FirstResponder (from `../../FirstResponder/`)
+  - KeyboardLayoutGuide (from `../`)
+
+EXTERNAL SOURCES:
+  FirstResponder:
+    :path: "../../FirstResponder/"
+  KeyboardLayoutGuide:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FirstResponder: 160f6c4a4721b3bc91211ca0a2ae20fa5d19bfbb
+  KeyboardLayoutGuide: a11a139dba272af10c4168c9934bb8e0a5a95a0d
+
+PODFILE CHECKSUM: c47af06d9eae9950d1069fa846a96158852285b1
+
+COCOAPODS: 1.5.3

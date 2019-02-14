@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'KeyboardLayoutGuide_Example' do
+  pod 'KeyboardLayoutGuide', :path => '../'
+  pod 'FirstResponder', :path => '../../FirstResponder/'
+
+  target 'KeyboardLayoutGuide_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
